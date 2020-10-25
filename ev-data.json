@@ -1,506 +1,258 @@
 [
     {
-        "State": "Alabama",
-        "EVs": 9,
-        "Trump": 57,
-        "Biden": 37,
-        "Undecided": 6,
-        "Poll": "Auburn University",
-        "Date": "10/3/2020"
+        "stateName": "Michigan",
+        "electoralVotes": 16,
+        "trumpPercent": 39,
+        "bidenPercent": 48,
+        "pollster": "EPIC-MRA",
+        "pollDate": "10/23/2020"
     },
     {
-        "State": "Alaska",
-        "EVs": 3,
-        "Trump": 45,
-        "Biden": 39,
-        "Undecided": 16,
-        "Poll": "NYT/Sienna",
-        "Date": "10/16/2020"
+        "stateName": "Minnesota",
+        "electoralVotes": 10,
+        "trumpPercent": 42,
+        "bidenPercent": 48,
+        "pollster": "KTSP/Survey USA",
+        "pollDate": ""
     },
     {
-        "State": "Arizona",
-        "EVs": 11,
-        "Trump": 47,
-        "Biden": 46,
-        "Undecided": 7,
-        "Poll": "Susquehanna",
-        "Date": "10/23/2020"
+        "stateName": "Mississippi",
+        "electoralVotes": 6,
+        "trumpPercent": 50,
+        "bidenPercent": 40,
+        "pollster": "Tyson Group",
+        "pollDate": "8/30"
     },
     {
-        "State": "Arkansas",
-        "EVs": 6,
-        "Trump": 58,
-        "Biden": 34,
-        "Undecided": 8,
-        "Poll": "Talk Business/Henrix College",
-        "Date": "10/19/2020"
+        "stateName": "Missouri",
+        "electoralVotes": 10,
+        "trumpPercent": 51,
+        "bidenPercent": 45,
+        "pollster": "Missouri Scout",
+        "pollDate": "10/17"
     },
     {
-        "State": "California",
-        "EVs": 55,
-        "Trump": 37,
-        "Biden": 59,
-        "Undecided": 4,
-        "Poll": "PPIC",
-        "Date": "10/22/2020"
+        "stateName": "Montana",
+        "electoralVotes": 3,
+        "trumpPercent": 49,
+        "bidenPercent": 43,
+        "pollster": "Sienna/NYT",
+        "pollDate": "10/20"
     },
     {
-        "State": "Colorado",
-        "EVs": 9,
-        "Trump": 39,
-        "Biden": 55,
-        "Undecided": 6,
-        "Poll": "Morning Consult",
-        "Date": "10/20/2020"
+        "stateName": "Nebraska PV",
+        "electoralVotes": 2,
+        "trumpPercent": 45,
+        "bidenPercent": 51,
+        "pollster": "IBD/TIPP",
+        "pollDate": "10/23"
     },
     {
-        "State": "Connecticut",
-        "EVs": 7,
-        "Trump": 35,
-        "Biden": 62,
-        "Undecided": 3,
-        "Poll": "Survey Monkey",
-        "Date": "10/22/2020"
+        "stateName": "Nebraska CD1",
+        "electoralVotes": 1,
+        "trumpPercent": 53,
+        "bidenPercent": 46,
+        "pollster": "Survey Monkey",
+        "pollDate": "10/22"
     },
     {
-        "State": "Delaware",
-        "EVs": 3,
-        "Trump": 33,
-        "Biden": 54,
-        "Undecided": 13,
-        "Poll": "University of Delaware",
-        "Date": "9/27/2020"
+        "stateName": "Nebraska CD2",
+        "electoralVotes": 1,
+        "trumpPercent": 42,
+        "bidenPercent": 53,
+        "pollster": "FM3 Research",
+        "pollDate": "10/4"
     },
     {
-        "State": "District of Columbia",
-        "EVs": 3,
-        "Trump": 9,
-        "Biden": 89,
-        "Undecided": 2,
-        "Poll": "Survey Monkey",
-        "Date": "10/23/2020"
+        "stateName": "Nebraska CD3",
+        "electoralVotes": 1,
+        "trumpPercent": 53,
+        "bidenPercent": 46,
+        "pollster": "Survey Monkey",
+        "pollDate": "10/22"
     },
     {
-        "State": "Florida",
-        "EVs": 29,
-        "Trump": 50,
-        "Biden": 46,
-        "Undecided": 4,
-        "Poll": "Ramussen",
-        "Date": "10/21/2020"
+        "stateName": "Nevada",
+        "electoralVotes": 6,
+        "trumpPercent": 42,
+        "bidenPercent": 44,
+        "pollster": "Las Vegas Review Journal",
+        "pollDate": "10/13"
     },
     {
-        "State": "Georgia",
-        "EVs": 16,
-        "Trump": 49,
-        "Biden": 45,
-        "Undecided": 6,
-        "Poll": "WSB-TV/Landmark",
-        "Date": "10/23/2020"
+        "stateName": "New Hampshire",
+        "electoralVotes": 4,
+        "trumpPercent": 41,
+        "bidenPercent": 51,
+        "pollster": "Boston Globe/Suffolk",
+        "pollDate": "10/14"
     },
     {
-        "State": "Hawaii",
-        "EVs": 4,
-        "Trump": 38,
-        "Biden": 61,
-        "Undecided": 1,
-        "Poll": "HNN/Civil Beat",
-        "Date": "10/16/2020"
+        "stateName": "New Jersey",
+        "electoralVotes": 14,
+        "trumpPercent": 36,
+        "bidenPercent": 56,
+        "pollster": "Stockton University",
+        "pollDate": "10/16"
     },
     {
-        "State": "Idaho",
-        "EVs": 4,
-        "Trump": 60,
-        "Biden": 34,
-        "Undecided": 6,
-        "Poll": "Spry Strategies",
-        "Date": "9/1/2020"
+        "stateName": "New Mexico",
+        "electoralVotes": 5,
+        "trumpPercent": 39,
+        "bidenPercent": 53,
+        "pollster": "Public Policy Polling",
+        "pollDate": "10/1"
     },
     {
-        "State": "Illinois",
-        "EVs": 20,
-        "Trump": 40,
-        "Biden": 53,
-        "Undecided": 7,
-        "Poll": "Victory Research",
-        "Date": "9/26/2020"
+        "stateName": "New York",
+        "electoralVotes": 29,
+        "trumpPercent": 29,
+        "bidenPercent": 61,
+        "pollster": "Siena College",
+        "pollDate": "9/29"
     },
     {
-        "State": "Indiana",
-        "EVs": 11,
-        "Trump": 49,
-        "Biden": 42,
-        "Undecided": 9,
-        "Poll": "SurveyUSA",
-        "Date": "10/14/2020"
+        "stateName": "North Carolina",
+        "electoralVotes": 15,
+        "trumpPercent": 49,
+        "bidenPercent": 48,
+        "pollster": "Ramussen",
+        "pollDate": "10/22"
     },
     {
-        "State": "Iowa",
-        "EVs": 6,
-        "Trump": 48,
-        "Biden": 46,
-        "Undecided": 6,
-        "Poll": "Emerson",
-        "Date": "10/21/2020"
+        "stateName": "North Dakota",
+        "electoralVotes": 3,
+        "trumpPercent": 56,
+        "bidenPercent": 37,
+        "pollster": "DFM Research",
+        "pollDate": "9/16"
     },
     {
-        "State": "Kansas",
-        "EVs": 6,
-        "Trump": 48,
-        "Biden": 41,
-        "Undecided": 11,
-        "Poll": "NYT/Sienna",
-        "Date": "10/22/2020"
+        "stateName": "Ohio",
+        "electoralVotes": 18,
+        "trumpPercent": 47,
+        "bidenPercent": 48,
+        "pollster": "Ramussen",
+        "pollDate": "10/20"
     },
     {
-        "State": "Kentucky",
-        "EVs": 8,
-        "Trump": 56,
-        "Biden": 39,
-        "Undecided": 5,
-        "Poll": "Mason-Dixon",
-        "Date": "10/20/2020"
+        "stateName": "Oklahoma",
+        "electoralVotes": 7,
+        "trumpPercent": 49,
+        "bidenPercent": 37,
+        "pollster": "Sooner Poll",
+        "pollDate": "10/22"
     },
     {
-        "State": "Louisiana",
-        "EVs": 8,
-        "Trump": 54,
-        "Biden": 36,
-        "Undecided": 10,
-        "Poll": "Trafalgar",
-        "Date": "10/14/2020"
+        "stateName": "Oregon",
+        "electoralVotes": 7,
+        "trumpPercent": 39,
+        "bidenPercent": 56,
+        "pollster": "Civiqs",
+        "pollDate": "9/29"
     },
     {
-        "State": "Maine PV",
-        "EVs": 2,
-        "Trump": 45,
-        "Biden": 51,
-        "Undecided": 4,
-        "Poll": "IBD/TIPP",
-        "Date": "10/23/2020"
+        "stateName": "Pennsylvania",
+        "electoralVotes": 20,
+        "trumpPercent": 44,
+        "bidenPercent": 51,
+        "pollster": "Morning Call",
+        "pollDate": "10/23"
     },
     {
-        "State": "Maine CD1",
-        "EVs": 1,
-        "Trump": 37,
-        "Biden": 54,
-        "Undecided": 9,
-        "Poll": "Pan Atlantic",
-        "Date": "10/6/2020"
+        "stateName": "Rhode Island",
+        "electoralVotes": 4,
+        "trumpPercent": 31,
+        "bidenPercent": 68,
+        "pollster": "Survey Monkey",
+        "pollDate": "10/22"
     },
     {
-        "State": "Maine CD2",
-        "EVs": 1,
-        "Trump": 43,
-        "Biden": 47,
-        "Undecided": 10,
-        "Poll": "Pan Atlantic",
-        "Date": "10/6/2020"
+        "stateName": "South Carolina",
+        "electoralVotes": 9,
+        "trumpPercent": 49,
+        "bidenPercent": 41,
+        "pollster": "NYT/Sienna",
+        "pollDate": "10/15"
     },
     {
-        "State": "Maryland",
-        "EVs": 10,
-        "Trump": 30,
-        "Biden": 61,
-        "Undecided": 9,
-        "Poll": "Goucher College",
-        "Date": "10/4/2020"
+        "stateName": "South Dakota",
+        "electoralVotes": 3,
+        "trumpPercent": 54,
+        "bidenPercent": 44,
+        "pollster": "Survey Monkey",
+        "pollDate": "10/22"
     },
     {
-        "State": "Massachusetts",
-        "EVs": 11,
-        "Trump": 31,
-        "Biden": 69,
-        "Undecided": 0,
-        "Poll": "Emerson",
-        "Date": "8/27/2020"
+        "stateName": "Tennessee",
+        "electoralVotes": 11,
+        "trumpPercent": 51,
+        "bidenPercent": 42,
+        "pollster": "SSRS",
+        "pollDate": "5/22"
     },
     {
-        "State": "Michigan",
-        "EVs": 16,
-        "Trump": 39,
-        "Biden": 48,
-        "Undecided": 13,
-        "Poll": "EPIC-MRA",
-        "Date": "10/23/2020"
+        "stateName": "Texas",
+        "electoralVotes": 38,
+        "trumpPercent": 50,
+        "bidenPercent": 45,
+        "pollster": "UT/TX Tribune",
+        "pollDate": "10/9"
     },
     {
-        "State": "Minnesota",
-        "EVs": 10,
-        "Trump": 42,
-        "Biden": 48,
-        "Undecided": 10,
-        "Poll": "KTSP/Survey USA",
-        "Date": ""
+        "stateName": "Utah",
+        "electoralVotes": 6,
+        "trumpPercent": 50,
+        "bidenPercent": 38,
+        "pollster": "Desert News/Hinckley Institute",
+        "pollDate": "10/23"
     },
     {
-        "State": "Mississippi",
-        "EVs": 6,
-        "Trump": 50,
-        "Biden": 40,
-        "Undecided": 10,
-        "Poll": "Tyson Group",
-        "Date": "8/30"
+        "stateName": "Vermont",
+        "electoralVotes": 3,
+        "trumpPercent": 32,
+        "bidenPercent": 66,
+        "pollster": "Survey Monkey",
+        "pollDate": "10/22"
     },
     {
-        "State": "Missouri",
-        "EVs": 10,
-        "Trump": 51,
-        "Biden": 45,
-        "Undecided": 4,
-        "Poll": "Missouri Scout",
-        "Date": "10/17"
+        "stateName": "Virginia",
+        "electoralVotes": 13,
+        "trumpPercent": 41,
+        "bidenPercent": 52,
+        "pollster": "Washington Post",
+        "pollDate": "10/22"
     },
     {
-        "State": "Montana",
-        "EVs": 3,
-        "Trump": 49,
-        "Biden": 43,
-        "Undecided": 8,
-        "Poll": "Sienna/NYT",
-        "Date": "10/20"
+        "stateName": "Washington",
+        "electoralVotes": 12,
+        "trumpPercent": 37,
+        "bidenPercent": 60,
+        "pollster": "Public Policy Polling",
+        "pollDate": "10/15"
     },
     {
-        "State": "Nebraska PV",
-        "EVs": 2,
-        "Trump": 45,
-        "Biden": 51,
-        "Undecided": 4,
-        "Poll": "IBD/TIPP",
-        "Date": "10/23"
+        "stateName": "West Virginia",
+        "electoralVotes": 5,
+        "trumpPercent": 58,
+        "bidenPercent": 38,
+        "pollster": "WMOV",
+        "pollDate": "10/23"
     },
     {
-        "State": "Nebraska CD1",
-        "EVs": 1,
-        "Trump": 53,
-        "Biden": 46,
-        "Undecided": 1,
-        "Poll": "Survey Monkey",
-        "Date": "10/22"
+        "stateName": "Wisconsin",
+        "electoralVotes": 10,
+        "trumpPercent": 45,
+        "bidenPercent": 45,
+        "pollster": "Susquehanna",
+        "pollDate": "10/21"
     },
     {
-        "State": "Nebraska CD2",
-        "EVs": 1,
-        "Trump": 42,
-        "Biden": 53,
-        "Undecided": 5,
-        "Poll": "FM3 Research",
-        "Date": "10/4"
-    },
-    {
-        "State": "Nebraska CD3",
-        "EVs": 1,
-        "Trump": 53,
-        "Biden": 46,
-        "Undecided": 1,
-        "Poll": "Survey Monkey",
-        "Date": "10/22"
-    },
-    {
-        "State": "Nevada",
-        "EVs": 6,
-        "Trump": 42,
-        "Biden": 44,
-        "Undecided": 14,
-        "Poll": "Las Vegas Review Journal",
-        "Date": "10/13"
-    },
-    {
-        "State": "New Hampshire",
-        "EVs": 4,
-        "Trump": 41,
-        "Biden": 51,
-        "Undecided": 8,
-        "Poll": "Boston Globe/Suffolk",
-        "Date": "10/14"
-    },
-    {
-        "State": "New Jersey",
-        "EVs": 14,
-        "Trump": 36,
-        "Biden": 56,
-        "Undecided": 8,
-        "Poll": "Stockton University",
-        "Date": "10/16"
-    },
-    {
-        "State": "New Mexico",
-        "EVs": 5,
-        "Trump": 39,
-        "Biden": 53,
-        "Undecided": 8,
-        "Poll": "Public Policy Polling",
-        "Date": "10/1"
-    },
-    {
-        "State": "New York",
-        "EVs": 29,
-        "Trump": 29,
-        "Biden": 61,
-        "Undecided": 10,
-        "Poll": "Siena College",
-        "Date": "9/29"
-    },
-    {
-        "State": "North Carolina",
-        "EVs": 15,
-        "Trump": 49,
-        "Biden": 48,
-        "Undecided": 3,
-        "Poll": "Ramussen",
-        "Date": "10/22"
-    },
-    {
-        "State": "North Dakota",
-        "EVs": 3,
-        "Trump": 56,
-        "Biden": 37,
-        "Undecided": 7,
-        "Poll": "DFM Research",
-        "Date": "9/16"
-    },
-    {
-        "State": "Ohio",
-        "EVs": 18,
-        "Trump": 47,
-        "Biden": 48,
-        "Undecided": 5,
-        "Poll": "Ramussen",
-        "Date": "10/20"
-    },
-    {
-        "State": "Oklahoma",
-        "EVs": 7,
-        "Trump": 49,
-        "Biden": 37,
-        "Undecided": 14,
-        "Poll": "Sooner Poll",
-        "Date": "10/22"
-    },
-    {
-        "State": "Oregon",
-        "EVs": 7,
-        "Trump": 39,
-        "Biden": 56,
-        "Undecided": 5,
-        "Poll": "Civiqs",
-        "Date": "9/29"
-    },
-    {
-        "State": "Pennsylvania",
-        "EVs": 20,
-        "Trump": 44,
-        "Biden": 51,
-        "Undecided": 5,
-        "Poll": "Morning Call",
-        "Date": "10/23"
-    },
-    {
-        "State": "Rhode Island",
-        "EVs": 4,
-        "Trump": 31,
-        "Biden": 68,
-        "Undecided": 1,
-        "Poll": "Survey Monkey",
-        "Date": "10/22"
-    },
-    {
-        "State": "South Carolina",
-        "EVs": 9,
-        "Trump": 49,
-        "Biden": 41,
-        "Undecided": 10,
-        "Poll": "NYT/Sienna",
-        "Date": "10/15"
-    },
-    {
-        "State": "South Dakota",
-        "EVs": 3,
-        "Trump": 54,
-        "Biden": 44,
-        "Undecided": 2,
-        "Poll": "Survey Monkey",
-        "Date": "10/22"
-    },
-    {
-        "State": "Tennessee",
-        "EVs": 11,
-        "Trump": 51,
-        "Biden": 42,
-        "Undecided": 7,
-        "Poll": "SSRS",
-        "Date": "5/22"
-    },
-    {
-        "State": "Texas",
-        "EVs": 38,
-        "Trump": 50,
-        "Biden": 45,
-        "Undecided": 5,
-        "Poll": "UT/TX Tribune",
-        "Date": "10/9"
-    },
-    {
-        "State": "Utah",
-        "EVs": 6,
-        "Trump": 50,
-        "Biden": 38,
-        "Undecided": 12,
-        "Poll": "Desert News/Hinckley Institute",
-        "Date": "10/23"
-    },
-    {
-        "State": "Vermont",
-        "EVs": 3,
-        "Trump": 32,
-        "Biden": 66,
-        "Undecided": 2,
-        "Poll": "Survey Monkey",
-        "Date": "10/22"
-    },
-    {
-        "State": "Virginia",
-        "EVs": 13,
-        "Trump": 41,
-        "Biden": 52,
-        "Undecided": 7,
-        "Poll": "Washington Post",
-        "Date": "10/22"
-    },
-    {
-        "State": "Washington",
-        "EVs": 12,
-        "Trump": 37,
-        "Biden": 60,
-        "Undecided": 3,
-        "Poll": "Public Policy Polling",
-        "Date": "10/15"
-    },
-    {
-        "State": "West Virginia",
-        "EVs": 5,
-        "Trump": 58,
-        "Biden": 38,
-        "Undecided": 4,
-        "Poll": "WMOV",
-        "Date": "10/23"
-    },
-    {
-        "State": "Wisconsin",
-        "EVs": 10,
-        "Trump": 45,
-        "Biden": 45,
-        "Undecided": 10,
-        "Poll": "Susquehanna",
-        "Date": "10/21"
-    },
-    {
-        "State": "Wyoming",
-        "EVs": 3,
-        "Trump": 68,
-        "Biden": 30,
-        "Undecided": 2,
-        "Poll": "Survey Monkey",
-        "Date": "10/23"
+        "stateName": "Wyoming",
+        "electoralVotes": 3,
+        "trumpPercent": 68,
+        "bidenPercent": 30,
+        "pollster": "Survey Monkey",
+        "pollDate": "10/23"
     }
 ]
