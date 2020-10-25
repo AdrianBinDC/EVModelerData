@@ -1,11 +1,253 @@
 [
     {
+        "stateName": "Alabama",
+        "electoralVotes": 9,
+        "trumpPercent": 57,
+        "bidenPercent": 37,
+        "pollster": "Auburn University",
+        "pollDate": "10/3/2020",
+        "undecidedCoefficient": 0.6,
+        "pollShift": 0.0
+    },
+    {
+        "stateName": "Alaska",
+        "electoralVotes": 3,
+        "trumpPercent": 45,
+        "bidenPercent": 39,
+        "pollster": "NYT/Sienna",
+        "pollDate": "10/16/2020",
+        "undecidedCoefficient": 0.6,
+        "pollShift": 0.0
+    },
+    {
+        "stateName": "Arizona",
+        "electoralVotes": 11,
+        "trumpPercent": 47,
+        "bidenPercent": 46,
+        "pollster": "Susquehanna",
+        "pollDate": "10/23/2020",
+        "undecidedCoefficient": 0.6,
+        "pollShift": 0.0
+    },
+    {
+        "stateName": "Arkansas",
+        "electoralVotes": 6,
+        "trumpPercent": 58,
+        "bidenPercent": 34,
+        "pollster": "Talk Business/Henrix College",
+        "pollDate": "10/19/2020",
+        "undecidedCoefficient": 0.6,
+        "pollShift": 0.0
+    },
+    {
+        "stateName": "California",
+        "electoralVotes": 55,
+        "trumpPercent": 37,
+        "bidenPercent": 59,
+        "pollster": "PPIC",
+        "pollDate": "10/22/2020",
+        "undecidedCoefficient": 0.6,
+        "pollShift": 0.0
+    },
+    {
+        "stateName": "Colorado",
+        "electoralVotes": 9,
+        "trumpPercent": 39,
+        "bidenPercent": 55,
+        "pollster": "Morning Consult",
+        "pollDate": "10/20/2020",
+        "undecidedCoefficient": 0.6,
+        "pollShift": 0.0
+    },
+    {
+        "stateName": "Connecticut",
+        "electoralVotes": 7,
+        "trumpPercent": 35,
+        "bidenPercent": 62,
+        "pollster": "Survey Monkey",
+        "pollDate": "10/22/2020",
+        "undecidedCoefficient": 0.6,
+        "pollShift": 0.0
+    },
+    {
+        "stateName": "Delaware",
+        "electoralVotes": 3,
+        "trumpPercent": 33,
+        "bidenPercent": 54,
+        "pollster": "University of Delaware",
+        "pollDate": "9/27/2020",
+        "undecidedCoefficient": 0.6,
+        "pollShift": 0.0
+    },
+    {
+        "stateName": "District of Columbia",
+        "electoralVotes": 3,
+        "trumpPercent": 9,
+        "bidenPercent": 89,
+        "pollster": "Survey Monkey",
+        "pollDate": "10/23/2020",
+        "undecidedCoefficient": 0.6,
+        "pollShift": 0.0
+    },
+    {
+        "stateName": "Florida",
+        "electoralVotes": 29,
+        "trumpPercent": 50,
+        "bidenPercent": 46,
+        "pollster": "Ramussen",
+        "pollDate": "10/21/2020",
+        "undecidedCoefficient": 0.6,
+        "pollShift": 0.0
+    },
+    {
+        "stateName": "Georgia",
+        "electoralVotes": 16,
+        "trumpPercent": 49,
+        "bidenPercent": 45,
+        "pollster": "WSB-TV/Landmark",
+        "pollDate": "10/23/2020",
+        "undecidedCoefficient": 0.6,
+        "pollShift": 0.0
+    },
+    {
+        "stateName": "Hawaii",
+        "electoralVotes": 4,
+        "trumpPercent": 38,
+        "bidenPercent": 61,
+        "pollster": "HNN/Civil Beat",
+        "pollDate": "10/16/2020",
+        "undecidedCoefficient": 0.6,
+        "pollShift": 0.0
+    },
+    {
+        "stateName": "Idaho",
+        "electoralVotes": 4,
+        "trumpPercent": 60,
+        "bidenPercent": 34,
+        "pollster": "Spry Strategies",
+        "pollDate": "9/1/2020",
+        "undecidedCoefficient": 0.6,
+        "pollShift": 0.0
+    },
+    {
+        "stateName": "Illinois",
+        "electoralVotes": 20,
+        "trumpPercent": 40,
+        "bidenPercent": 53,
+        "pollster": "Victory Research",
+        "pollDate": "9/26/2020",
+        "undecidedCoefficient": 0.6,
+        "pollShift": 0.0
+    },
+    {
+        "stateName": "Indiana",
+        "electoralVotes": 11,
+        "trumpPercent": 49,
+        "bidenPercent": 42,
+        "pollster": "SurveyUSA",
+        "pollDate": "10/14/2020",
+        "undecidedCoefficient": 0.6,
+        "pollShift": 0.0
+    },
+    {
+        "stateName": "Iowa",
+        "electoralVotes": 6,
+        "trumpPercent": 48,
+        "bidenPercent": 46,
+        "pollster": "Emerson",
+        "pollDate": "10/21/2020",
+        "undecidedCoefficient": 0.6,
+        "pollShift": 0.0
+    },
+    {
+        "stateName": "Kansas",
+        "electoralVotes": 6,
+        "trumpPercent": 48,
+        "bidenPercent": 41,
+        "pollster": "NYT/Sienna",
+        "pollDate": "10/22/2020",
+        "undecidedCoefficient": 0.6,
+        "pollShift": 0.0
+    },
+    {
+        "stateName": "Kentucky",
+        "electoralVotes": 8,
+        "trumpPercent": 56,
+        "bidenPercent": 39,
+        "pollster": "Mason-Dixon",
+        "pollDate": "10/20/2020",
+        "undecidedCoefficient": 0.6,
+        "pollShift": 0.0
+    },
+    {
+        "stateName": "Louisiana",
+        "electoralVotes": 8,
+        "trumpPercent": 54,
+        "bidenPercent": 36,
+        "pollster": "Trafalgar",
+        "pollDate": "10/14/2020",
+        "undecidedCoefficient": 0.6,
+        "pollShift": 0.0
+    },
+    {
+        "stateName": "Maine PV",
+        "electoralVotes": 2,
+        "trumpPercent": 45,
+        "bidenPercent": 51,
+        "pollster": "IBD/TIPP",
+        "pollDate": "10/23/2020",
+        "undecidedCoefficient": 0.6,
+        "pollShift": 0.0
+    },
+    {
+        "stateName": "Maine CD1",
+        "electoralVotes": 1,
+        "trumpPercent": 37,
+        "bidenPercent": 54,
+        "pollster": "Pan Atlantic",
+        "pollDate": "10/6/2020",
+        "undecidedCoefficient": 0.6,
+        "pollShift": 0.0
+    },
+    {
+        "stateName": "Maine CD2",
+        "electoralVotes": 1,
+        "trumpPercent": 43,
+        "bidenPercent": 47,
+        "pollster": "Pan Atlantic",
+        "pollDate": "10/6/2020",
+        "undecidedCoefficient": 0.6,
+        "pollShift": 0.0
+    },
+    {
+        "stateName": "Maryland",
+        "electoralVotes": 10,
+        "trumpPercent": 30,
+        "bidenPercent": 61,
+        "pollster": "Goucher College",
+        "pollDate": "10/4/2020",
+        "undecidedCoefficient": 0.6,
+        "pollShift": 0.0
+    },
+    {
+        "stateName": "Massachusetts",
+        "electoralVotes": 11,
+        "trumpPercent": 31,
+        "bidenPercent": 69,
+        "pollster": "Emerson",
+        "pollDate": "8/27/2020",
+        "undecidedCoefficient": 0.6,
+        "pollShift": 0.0
+    },
+    {
         "stateName": "Michigan",
         "electoralVotes": 16,
         "trumpPercent": 39,
         "bidenPercent": 48,
         "pollster": "EPIC-MRA",
-        "pollDate": "10/23/2020"
+        "pollDate": "10/23/2020",
+        "undecidedCoefficient": 0.6,
+        "pollShift": 0.0
     },
     {
         "stateName": "Minnesota",
@@ -13,7 +255,9 @@
         "trumpPercent": 42,
         "bidenPercent": 48,
         "pollster": "KTSP/Survey USA",
-        "pollDate": ""
+        "pollDate": "",
+        "undecidedCoefficient": 0.6,
+        "pollShift": 0.0
     },
     {
         "stateName": "Mississippi",
@@ -21,7 +265,9 @@
         "trumpPercent": 50,
         "bidenPercent": 40,
         "pollster": "Tyson Group",
-        "pollDate": "8/30"
+        "pollDate": "8/30",
+        "undecidedCoefficient": 0.6,
+        "pollShift": 0.0
     },
     {
         "stateName": "Missouri",
@@ -29,7 +275,9 @@
         "trumpPercent": 51,
         "bidenPercent": 45,
         "pollster": "Missouri Scout",
-        "pollDate": "10/17"
+        "pollDate": "10/17",
+        "undecidedCoefficient": 0.6,
+        "pollShift": 0.0
     },
     {
         "stateName": "Montana",
@@ -37,7 +285,9 @@
         "trumpPercent": 49,
         "bidenPercent": 43,
         "pollster": "Sienna/NYT",
-        "pollDate": "10/20"
+        "pollDate": "10/20",
+        "undecidedCoefficient": 0.6,
+        "pollShift": 0.0
     },
     {
         "stateName": "Nebraska PV",
@@ -45,7 +295,9 @@
         "trumpPercent": 45,
         "bidenPercent": 51,
         "pollster": "IBD/TIPP",
-        "pollDate": "10/23"
+        "pollDate": "10/23",
+        "undecidedCoefficient": 0.6,
+        "pollShift": 0.0
     },
     {
         "stateName": "Nebraska CD1",
@@ -53,7 +305,9 @@
         "trumpPercent": 53,
         "bidenPercent": 46,
         "pollster": "Survey Monkey",
-        "pollDate": "10/22"
+        "pollDate": "10/22",
+        "undecidedCoefficient": 0.6,
+        "pollShift": 0.0
     },
     {
         "stateName": "Nebraska CD2",
@@ -61,7 +315,9 @@
         "trumpPercent": 42,
         "bidenPercent": 53,
         "pollster": "FM3 Research",
-        "pollDate": "10/4"
+        "pollDate": "10/4",
+        "undecidedCoefficient": 0.6,
+        "pollShift": 0.0
     },
     {
         "stateName": "Nebraska CD3",
@@ -69,7 +325,9 @@
         "trumpPercent": 53,
         "bidenPercent": 46,
         "pollster": "Survey Monkey",
-        "pollDate": "10/22"
+        "pollDate": "10/22",
+        "undecidedCoefficient": 0.6,
+        "pollShift": 0.0
     },
     {
         "stateName": "Nevada",
@@ -77,7 +335,9 @@
         "trumpPercent": 42,
         "bidenPercent": 44,
         "pollster": "Las Vegas Review Journal",
-        "pollDate": "10/13"
+        "pollDate": "10/13",
+        "undecidedCoefficient": 0.6,
+        "pollShift": 0.0
     },
     {
         "stateName": "New Hampshire",
@@ -85,7 +345,9 @@
         "trumpPercent": 41,
         "bidenPercent": 51,
         "pollster": "Boston Globe/Suffolk",
-        "pollDate": "10/14"
+        "pollDate": "10/14",
+        "undecidedCoefficient": 0.6,
+        "pollShift": 0.0
     },
     {
         "stateName": "New Jersey",
@@ -93,7 +355,9 @@
         "trumpPercent": 36,
         "bidenPercent": 56,
         "pollster": "Stockton University",
-        "pollDate": "10/16"
+        "pollDate": "10/16",
+        "undecidedCoefficient": 0.6,
+        "pollShift": 0.0
     },
     {
         "stateName": "New Mexico",
@@ -101,7 +365,9 @@
         "trumpPercent": 39,
         "bidenPercent": 53,
         "pollster": "Public Policy Polling",
-        "pollDate": "10/1"
+        "pollDate": "10/1",
+        "undecidedCoefficient": 0.6,
+        "pollShift": 0.0
     },
     {
         "stateName": "New York",
@@ -109,7 +375,9 @@
         "trumpPercent": 29,
         "bidenPercent": 61,
         "pollster": "Siena College",
-        "pollDate": "9/29"
+        "pollDate": "9/29",
+        "undecidedCoefficient": 0.6,
+        "pollShift": 0.0
     },
     {
         "stateName": "North Carolina",
@@ -117,7 +385,9 @@
         "trumpPercent": 49,
         "bidenPercent": 48,
         "pollster": "Ramussen",
-        "pollDate": "10/22"
+        "pollDate": "10/22",
+        "undecidedCoefficient": 0.6,
+        "pollShift": 0.0
     },
     {
         "stateName": "North Dakota",
@@ -125,7 +395,9 @@
         "trumpPercent": 56,
         "bidenPercent": 37,
         "pollster": "DFM Research",
-        "pollDate": "9/16"
+        "pollDate": "9/16",
+        "undecidedCoefficient": 0.6,
+        "pollShift": 0.0
     },
     {
         "stateName": "Ohio",
@@ -133,7 +405,9 @@
         "trumpPercent": 47,
         "bidenPercent": 48,
         "pollster": "Ramussen",
-        "pollDate": "10/20"
+        "pollDate": "10/20",
+        "undecidedCoefficient": 0.6,
+        "pollShift": 0.0
     },
     {
         "stateName": "Oklahoma",
@@ -141,7 +415,9 @@
         "trumpPercent": 49,
         "bidenPercent": 37,
         "pollster": "Sooner Poll",
-        "pollDate": "10/22"
+        "pollDate": "10/22",
+        "undecidedCoefficient": 0.6,
+        "pollShift": 0.0
     },
     {
         "stateName": "Oregon",
@@ -149,7 +425,9 @@
         "trumpPercent": 39,
         "bidenPercent": 56,
         "pollster": "Civiqs",
-        "pollDate": "9/29"
+        "pollDate": "9/29",
+        "undecidedCoefficient": 0.6,
+        "pollShift": 0.0
     },
     {
         "stateName": "Pennsylvania",
@@ -157,7 +435,9 @@
         "trumpPercent": 44,
         "bidenPercent": 51,
         "pollster": "Morning Call",
-        "pollDate": "10/23"
+        "pollDate": "10/23",
+        "undecidedCoefficient": 0.6,
+        "pollShift": 0.0
     },
     {
         "stateName": "Rhode Island",
@@ -165,7 +445,9 @@
         "trumpPercent": 31,
         "bidenPercent": 68,
         "pollster": "Survey Monkey",
-        "pollDate": "10/22"
+        "pollDate": "10/22",
+        "undecidedCoefficient": 0.6,
+        "pollShift": 0.0
     },
     {
         "stateName": "South Carolina",
@@ -173,7 +455,9 @@
         "trumpPercent": 49,
         "bidenPercent": 41,
         "pollster": "NYT/Sienna",
-        "pollDate": "10/15"
+        "pollDate": "10/15",
+        "undecidedCoefficient": 0.6,
+        "pollShift": 0.0
     },
     {
         "stateName": "South Dakota",
@@ -181,7 +465,9 @@
         "trumpPercent": 54,
         "bidenPercent": 44,
         "pollster": "Survey Monkey",
-        "pollDate": "10/22"
+        "pollDate": "10/22",
+        "undecidedCoefficient": 0.6,
+        "pollShift": 0.0
     },
     {
         "stateName": "Tennessee",
@@ -189,7 +475,9 @@
         "trumpPercent": 51,
         "bidenPercent": 42,
         "pollster": "SSRS",
-        "pollDate": "5/22"
+        "pollDate": "5/22",
+        "undecidedCoefficient": 0.6,
+        "pollShift": 0.0
     },
     {
         "stateName": "Texas",
@@ -197,7 +485,9 @@
         "trumpPercent": 50,
         "bidenPercent": 45,
         "pollster": "UT/TX Tribune",
-        "pollDate": "10/9"
+        "pollDate": "10/9",
+        "undecidedCoefficient": 0.6,
+        "pollShift": 0.0
     },
     {
         "stateName": "Utah",
@@ -205,7 +495,9 @@
         "trumpPercent": 50,
         "bidenPercent": 38,
         "pollster": "Desert News/Hinckley Institute",
-        "pollDate": "10/23"
+        "pollDate": "10/23",
+        "undecidedCoefficient": 0.6,
+        "pollShift": 0.0
     },
     {
         "stateName": "Vermont",
@@ -213,7 +505,9 @@
         "trumpPercent": 32,
         "bidenPercent": 66,
         "pollster": "Survey Monkey",
-        "pollDate": "10/22"
+        "pollDate": "10/22",
+        "undecidedCoefficient": 0.6,
+        "pollShift": 0.0
     },
     {
         "stateName": "Virginia",
@@ -221,7 +515,9 @@
         "trumpPercent": 41,
         "bidenPercent": 52,
         "pollster": "Washington Post",
-        "pollDate": "10/22"
+        "pollDate": "10/22",
+        "undecidedCoefficient": 0.6,
+        "pollShift": 0.0
     },
     {
         "stateName": "Washington",
@@ -229,7 +525,9 @@
         "trumpPercent": 37,
         "bidenPercent": 60,
         "pollster": "Public Policy Polling",
-        "pollDate": "10/15"
+        "pollDate": "10/15",
+        "undecidedCoefficient": 0.6,
+        "pollShift": 0.0
     },
     {
         "stateName": "West Virginia",
@@ -237,7 +535,9 @@
         "trumpPercent": 58,
         "bidenPercent": 38,
         "pollster": "WMOV",
-        "pollDate": "10/23"
+        "pollDate": "10/23",
+        "undecidedCoefficient": 0.6,
+        "pollShift": 0.0
     },
     {
         "stateName": "Wisconsin",
@@ -245,7 +545,9 @@
         "trumpPercent": 45,
         "bidenPercent": 45,
         "pollster": "Susquehanna",
-        "pollDate": "10/21"
+        "pollDate": "10/21",
+        "undecidedCoefficient": 0.6,
+        "pollShift": 0.0
     },
     {
         "stateName": "Wyoming",
@@ -253,6 +555,8 @@
         "trumpPercent": 68,
         "bidenPercent": 30,
         "pollster": "Survey Monkey",
-        "pollDate": "10/23"
+        "pollDate": "10/23",
+        "undecidedCoefficient": 0.6,
+        "pollShift": 0.0
     }
 ]
